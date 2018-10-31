@@ -59,12 +59,13 @@
 			<Item Name="RobotNeededPathData.ctl" Type="VI" URL="../../Dawgma Programming Library/Controls/PurePursuit/RobotNeededPathData.ctl"/>
 			<Item Name="TurnToAngleController.vi" Type="VI" URL="../Drive/Implementation/Controllers/TurnToAngleController.vi"/>
 			<Item Name="SmallestAngle.vi" Type="VI" URL="../../Dawgma Programming Library/Utilities/SmallestAngle.vi"/>
-			<Item Name="PositionBased1DProfile.vi" Type="VI" URL="../Drive/Implementation/Controllers/PositionBased1DProfile.vi"/>
 			<Item Name="DriveForDistanceController.vi" Type="VI" URL="../Drive/Implementation/Controllers/DriveForDistanceController.vi"/>
 			<Item Name="robotFriction.vi" Type="VI" URL="../../Dawgma Programming Library/RobotSimulator/robotFriction.vi"/>
 			<Item Name="motorTorque.vi" Type="VI" URL="../../Dawgma Programming Library/RobotSimulator/motorTorque.vi"/>
 			<Item Name="robotSimulation.vi" Type="VI" URL="../../Dawgma Programming Library/RobotSimulator/robotSimulation.vi"/>
 			<Item Name="Robot.vi" Type="VI" URL="../../Dawgma Programming Library/RobotSimulator/Robot.vi"/>
+			<Item Name="ShouldFlipAcceleration.vi" Type="VI" URL="../Drive/Implementation/Controllers/ShouldFlipAcceleration.vi"/>
+			<Item Name="TrapezoidalMotionProfile.vi" Type="VI" URL="../Drive/Implementation/Controllers/TrapezoidalMotionProfile.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
