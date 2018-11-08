@@ -66,6 +66,7 @@
 			<Item Name="Robot.vi" Type="VI" URL="../../Dawgma Programming Library/RobotSimulator/Robot.vi"/>
 			<Item Name="ShouldFlipAcceleration.vi" Type="VI" URL="../Drive/Implementation/Controllers/ShouldFlipAcceleration.vi"/>
 			<Item Name="TrapezoidalMotionProfile.vi" Type="VI" URL="../Drive/Implementation/Controllers/TrapezoidalMotionProfile.vi"/>
+			<Item Name="LinearInterpolate.vi" Type="VI" URL="../../Dawgma Programming Library/Utilities/LinearInterpolate.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
