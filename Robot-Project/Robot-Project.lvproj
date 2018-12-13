@@ -67,6 +67,7 @@
 			<Item Name="ShouldFlipAcceleration.vi" Type="VI" URL="../Drive/Implementation/Controllers/ShouldFlipAcceleration.vi"/>
 			<Item Name="TrapezoidalMotionProfile.vi" Type="VI" URL="../Drive/Implementation/Controllers/TrapezoidalMotionProfile.vi"/>
 			<Item Name="LinearInterpolate.vi" Type="VI" URL="../../Dawgma Programming Library/Utilities/LinearInterpolate.vi"/>
+			<Item Name="OneShotPulse.vi" Type="VI" URL="../../Dawgma Programming Library/Utilities/OneShotPulse.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
